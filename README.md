@@ -1,2 +1,2 @@
 # text
-This id a descrption.
+This is a test repository for FH 's video.
